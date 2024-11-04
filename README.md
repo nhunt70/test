@@ -23,14 +23,14 @@ All project resources including the dirty dataset, dashboard graphics, and simul
 * Compare the distribution of employees between headquarters (Florida) and branch offices.
 * Visualize the distribution of employees by city and state.
 
-1. **Demographics Analysis:**
+2. **Demographics Analysis:**
 
 * Assess the gender ratio within the company.
 * Analyze the age distribution of employees segmented by age groups.
 * Evaluate the distribution of employees based on education levels.
 * Investigate the correlation between educational backgrounds and performance ratings.
 
-1. **Income Analysis**:
+3. **Income Analysis**:
 
 * Compare salaries across different educational levels, segmented by gender, to identify any discrepancies.
 * Explore how age correlates with salary across various departments.
