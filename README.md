@@ -38,10 +38,10 @@ All project resources including the dirty dataset, dashboard graphics, and simul
 
 **Expected Outcome:** By the end of this analysis, organizations will:
 
-* Acquire a clear understanding of their current workforce composition and dynamics in order to make data-driven decisions that enhance workforce management.
 * Implement strategic initiatives aimed at improving retention, with the goal of reducing turnover by at least 10% over the next year.
-* Identify potential discrepancies in salary based on education and gender, enabling targeted interventions to promote equity.
 * Enhance overall employee performance ratings, aiming for an increase in "Excellent" ratings by at least 15%.
+* Identify potential discrepancies in salary based on education and gender, enabling targeted interventions to promote equity.
+* Acquire a clear understanding of their current workforce composition and dynamics in order to make data-driven decisions that enhance workforce management.
 
 **Data Sources:**
 
