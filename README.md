@@ -45,4 +45,5 @@ All project resources including the dirty dataset, dashboard graphics, and simul
 
 **Data Sources:**
 
-* The dataset provided includes attributes such as Employee ID, First Name, Last Name, Gender, State, City, Education Level, Birthdate, Hire Date, Term Date, Department, Job Title, Salary, and Performance Rating. This dataset serves as the primary source for all analyses and visualizations described in the objectives.
+* The dataset includes the following attributes: Employee ID, First Name, Last Name, Gender, State, City, Education Level, Birthdate, Hire Date, Term Date, Department, Job Title, Salary, and Performance Rating. 
+* This dataset serves as the primary source for all analyses and visualizations described in the objectives.
